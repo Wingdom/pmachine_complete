@@ -1,0 +1,1 @@
+The program opens up "code.txt" as an input file, outputs a completed "leximiser - compiled.txt". "leximiser - compiled.txt" is the token output. All the rest of the outputs are printed to the screen, each step of the conversion process. No changes from the specifications were made. 
